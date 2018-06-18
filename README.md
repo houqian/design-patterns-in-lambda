@@ -9,3 +9,5 @@
 5. https://docs.spring.io/spring/docs/current/spring-framework-reference/testing.html#testcontext-ctx-management
 6. https://stackoverflow.com/questions/5377960/whats-the-best-practice-to-git-clone-into-an-existing-folder
 7. https://stackoverflow.com/questions/20192070/how-to-move-all-files-including-hidden-files-into-parent-directory-via
+8. https://github.com/mariofusco/from-gof-to-lambda
+9. (书)Scala与Clojure函数式编程模式
