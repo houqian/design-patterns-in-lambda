@@ -11,3 +11,5 @@
 7. https://stackoverflow.com/questions/20192070/how-to-move-all-files-including-hidden-files-into-parent-directory-via
 8. https://github.com/mariofusco/from-gof-to-lambda
 9. (书)Scala与Clojure函数式编程模式
+10. (书)Java8实战
+11. (书)Effective Java 3rd edition
