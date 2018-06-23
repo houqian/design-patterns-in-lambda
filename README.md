@@ -13,3 +13,4 @@
 9. (书)Scala与Clojure函数式编程模式
 10. (书)Java8实战
 11. (书)Effective Java 3rd edition
+12. [Java8教程集合](https://wizardforcel.gitbooks.io/java8-tutorials/content/Java%208%20%E6%96%B0%E7%89%B9%E6%80%A7%E6%8E%A2%E7%A9%B6%EF%BC%88%E5%8D%81%EF%BC%89%20StampedLock%20%E5%B0%86%E6%98%AF%E8%A7%A3%E5%86%B3%E5%90%8C%E6%AD%A5%E9%97%AE%E9%A2%98%E7%9A%84%E6%96%B0%E5%AE%A0.html)
